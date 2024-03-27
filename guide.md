@@ -17,7 +17,17 @@
 * Location: CB11.05.400 (iHub)
 * Time: 6-8pm, 28th Feb 2024
 
-### Beginners' Java
+### Beginners' Game
+
+* Location: CB11.05.400 (iHub)
+* Time: 6-8pm, 13th Mar 2024
+
+### Beginners' Git
+
+* Location: CB11.05.400 (iHub)
+* Time: 6-8pm, 13th Mar 2024
+
+### Beginners' C++
 
 * Location: CB11.05.400 (iHub)
 * Time: 6-8pm, 13th Mar 2024
